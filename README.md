@@ -12,7 +12,7 @@
 - 💬 Ask me about: **React, JavaScript, CSS**
 - 📫 How to reach me: **josefggx@gmail.com**
 - 📄 Know about my experiences: [https://resume.com/](https://resume.com/)
-- ⚡ Fun fact about me: **The only thing I love as much as programming is... corn 🌽.**
+- ⚡ Fun fact: **The only thing I love as much as programming is... corn 🌽**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
