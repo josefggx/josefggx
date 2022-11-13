@@ -4,7 +4,7 @@
 </p>
 
 <h3>Hi 👋, I'm José Gutiérrez. A passionate Software Developer from Colombia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
 - 🔭 I’m currently working on: [AceMate](https://www.instagram.com/acemate.col/)
 - 🌱 I’m currently learning: **OOP**
