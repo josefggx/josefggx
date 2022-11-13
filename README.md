@@ -7,17 +7,11 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
 - 🔭 I’m currently working on: [AceMate](https://www.instagram.com/acemate.col/)
-
 - 🌱 I’m currently learning: **OOP**
-
 - 👨‍💻 All of my projects are available at: [https://portfolio.com/](https://portfolio.com/)
-
 - 💬 Ask me about: **React, JavaScript, CSS**
-
 - 📫 How to reach me: **josefggx@gmail.com**
-
 - 📄 Know about my experiences: [https://resume.com/](https://resume.com/)
-
 - ⚡ Fun fact about me: **The only thing I love as much as programming is... corn 🌽.**
 
 <h3 align="left">Connect with me:</h3>
