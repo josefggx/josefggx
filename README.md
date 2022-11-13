@@ -1,7 +1,7 @@
 
-<p align="center">
+<!-- <p align="center">
   <img alt="Banner" height='300px' width='90%' src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gif">
-</p>
+</p> -->
 
 <h3>Hi 👋, I'm José Gutiérrez. A passionate Software Developer from Colombia</h3>
 <img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
