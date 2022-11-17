@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at: [josegutierrez.live](https://josegutierrez.live/)
 - 📫 How to reach me: **josefgutierrezx@gmail.com**
 - 💡 Connect with me: [in/josegutierrezg](https://linkedin.com/in/josefgutierrezg)
-- 📄 Know about my experiences: [https://resume.com/](https://resume.com/)
+- 📄 Know about my experiences: [Resume](https://josegutierrez.live/Jose-Gutierrez-Resume.pdf)
 - ⚡ Fun fact: **The only thing I love as much as programming is... corn 🌽**
 
 <h3 align="left">Languages and Tools:</h3>
