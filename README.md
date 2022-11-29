@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
 - 🔭 I’m currently working on: [AceMate](https://www.instagram.com/acemate.col/)
-- 🌱 I’m currently learning: **OOP**
+- 🌱 I’m currently learning: **Ruby**
 - 👨‍💻 All of my projects are available at: [josegutierrez.live](https://josegutierrez.live/)
 - 📫 How to reach me: **josefgutierrezx@gmail.com**
 - 💡 Connect with me: [in/josegutierrezg](https://linkedin.com/in/josefgutierrezg)
